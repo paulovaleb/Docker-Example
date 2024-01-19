@@ -14,7 +14,7 @@ To build the image run the command.
 ```
 docker build
 ```
-For running the container in actions there is a run button.
+For running the container there is a run button in actions.
 
 ![image](https://github.com/paulovaleb/Docker-Example/assets/151897590/c123f45c-3c0a-4309-b9e9-859a551c9993)
 
